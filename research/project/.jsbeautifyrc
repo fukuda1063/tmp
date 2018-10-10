@@ -1,0 +1,13 @@
+{
+    "brace-style": "collapse",
+    "end-with-newline": true,
+    "eol": "\n",
+    "good-stuff": true,
+    "indent-char": " ",
+    "indent-level": 0,
+    "indent-size": 4,
+    "jslint-happy": true,
+    "operator-position": "before-newline",
+    "space-after-anon-function": true,
+    "type": "js"
+}

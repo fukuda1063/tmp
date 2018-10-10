@@ -1,0 +1,11 @@
+version: '3'
+services:
+  gitbucket:
+    build: ./gitbucket
+    links: 
+      - jenkins
+
+
+
+  jenkins:
+
